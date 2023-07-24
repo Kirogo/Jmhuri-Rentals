@@ -1,4 +1,4 @@
-##JMHURI RENTALS
+JMHURI RENTALS
 Quality car services and hire
 
 This is a car servicing and rental services websites. Users can book for car services like:
